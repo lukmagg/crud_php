@@ -1,0 +1,19 @@
+body {
+    font-family: "Trirong", serif !important;
+}
+
+.abs-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.color-form{
+    background-color: cadetblue;
+}
+
+.color-boton{
+    background-color: rgb(3, 123, 128) !important;
+    border-color: rgb(3, 123, 128) !important;
+}
